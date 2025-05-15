@@ -16,5 +16,10 @@
     "url": "https://github.com/AlmeidaLeoDev/Library-Management-System/issues"
   },
   "homepage": "https://github.com/AlmeidaLeoDev/Library-Management-System#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
 }
